@@ -1,0 +1,97 @@
+body{
+  margin: 0%;
+  font-family: sans-serif;
+}
+header{
+  background-color: #ddaa00;
+  text-align: center;
+  color: #fff;
+  height: 60px;
+  align-content: center;
+}
+
+h1{
+  margin: 0%;
+}
+
+
+.divNav{
+  background-color: #cbcbcb;
+  height: 45px;
+  
+}
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+
+.card{
+  border: 1px solid #020000;
+  color: #ddaa00;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px;
+  background-color: #fff;
+  margin-top: 5px;
+  width: 18%;
+  text-align: center;
+}
+
+.contenedor{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background-color: #808080;
+}
+
+.div1{
+  background-color: rgb(255, 255, 255);
+  color: #0c0c0c;
+  width: 15%;
+  padding: 5px;
+  border: 1px solid #000;
+  height: 90%;
+}
+
+.div2{
+  background-color: rgb(255, 255, 255);
+  color: #0c0c0c;
+  width: 20%;
+
+  padding: 5px;
+  border: 1px solid #000;
+  height: 90%;
+}
+
+.div3{
+  background-color: rgb(255, 255, 255);
+  color: #0c0c0c;
+  width: 55%;
+  padding: 5px;
+  border: 1px solid #000;
+  height: 90%;
+}
+
+input{
+width: 100%;
+height: 30px;
+margin-top: 30px;
+}
+
+article{
+  height: 80vh;
+}
+
+footer{
+  background-color: #ddaa00;
+  text-align: center;
+  color: #fff;
+  height: 60px;
+  align-content: center;
+  border-top: #000 10px solid;
+}

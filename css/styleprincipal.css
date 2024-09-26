@@ -1,0 +1,40 @@
+body{
+    margin: 0%;
+    font-family: sans-serif;
+    background-color: #73607c;
+}
+h1{
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.cardContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+
+}
+
+.card{
+    width: 200px;
+    height: 200px;
+    background-color: #fff;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+    transition: 0.5s;
+    text-align: center;
+    align-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
